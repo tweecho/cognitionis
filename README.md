@@ -1,1 +1,1 @@
-# cognitionis.github.io
+# cognitionis
